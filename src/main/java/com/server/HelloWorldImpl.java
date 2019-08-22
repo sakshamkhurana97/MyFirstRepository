@@ -14,7 +14,7 @@ public class HelloWorldImpl implements HelloWorld {
 
     public String sayHi(String text) {
         System.out.println("sayHi called by me ");
-        return "Hello " + text;
+        return "11 " + text;
     }
 
     public String sayHiToUser(User user) {
